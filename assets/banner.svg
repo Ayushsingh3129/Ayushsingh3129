@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Singh — Discord Bot Architect</title><desc id="desc">A neon cyberpunk city beneath a moonlit violet sky.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#05010F"/><stop offset=".55" stop-color="#160530"/><stop offset="1" stop-color="#0D0221"/></linearGradient>
+    <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#160530"/><stop offset="1" stop-color="#05010F"/></linearGradient>
+    <linearGradient id="neon"><stop stop-color="#B026FF"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#FF2FBE"/></linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="44" height="28" patternUnits="userSpaceOnUse"><path d="M0 0H44M0 0V28" stroke="#B026FF" stroke-opacity=".18"/></pattern>
+  </defs>
+  <rect width="1200" height="440" fill="url(#sky)"/>
+  <g fill="#E879F9"><circle cx="72" cy="55" r="1"/><circle cx="164" cy="80" r="1.5"/><circle cx="268" cy="34" r="1"/><circle cx="414" cy="74" r="1"/><circle cx="537" cy="35" r="1.5"/><circle cx="690" cy="64" r="1"/><circle cx="829" cy="25" r="1"/><circle cx="1080" cy="72" r="1.5"/><circle cx="1140" cy="38" r="1"/></g>
+  <g fill="#FF2FBE" opacity=".8"><path d="m130 125 4 6 7 2-7 2-4 6-3-6-7-2 7-2z"/><path d="m1024 88 3 5 6 2-6 2-3 5-3-5-6-2 6-2z"/><path d="m878 150 3 4 5 2-5 2-3 5-3-5-5-2 5-2z"/></g>
+  <circle cx="930" cy="92" r="48" fill="#FFE0FA" opacity=".95" filter="url(#g)"/><circle cx="913" cy="76" r="7" fill="#D982F1" opacity=".55"/><circle cx="948" cy="110" r="9" fill="#D982F1" opacity=".55"/>
+  <path d="M0 190Q145 150 270 187T510 172T760 193T980 168T1200 180V260H0Z" fill="#B026FF" opacity=".09"/>
+  <g fill="#100324" stroke="#B026FF" stroke-opacity=".55">
+    <path d="M0 274V196h35v78h16v-107h32v107h18v-65h27v65h25v-130h34v130h21v-92h25v92h24v-155h45v155h20v-80h30v80h26v-118h32v118h25v-174h48v174h24v-94h30v94h20v-140h42v140h20v-76h34v76h22v-122h39v122h16v-174h49v174h24v-97h36v97h27v-146h46v146h23v-82h36v82h23v-120h47v120h19v-156h34v156h25v-96h42v96h35v-78h27v78Z"/>
+  </g>
+  <g fill="#FF2FBE" opacity=".8"><path d="M62 204h8v8h-8zM66 220h8v8h-8zM169 162h8v8h-8zM280 182h8v8h-8zM433 118h8v8h-8zM703 159h8v8h-8zM882 114h8v8h-8zM1034 136h8v8h-8z"/></g>
+  <rect y="274" width="1200" height="166" fill="url(#floor)"/><rect y="274" width="1200" height="166" fill="url(#grid)"/>
+  <g text-anchor="middle" font-family="Arial, sans-serif" fill="#fff"><text x="600" y="205" font-size="75" font-weight="800" letter-spacing="4" fill="url(#neon)" filter="url(#g)">AYUSH SINGH</text><text x="600" y="240" font-size="17" letter-spacing="8">— DISCORD BOT ARCHITECT —</text></g>
+  <rect x="260" y="260" width="680" height="37" rx="5" fill="#0D0221" fill-opacity=".78" stroke="#FF2FBE"/><text x="600" y="284" text-anchor="middle" fill="#EAEAEA" font-family="Arial, sans-serif" font-size="16" letter-spacing="2">PYTHON　✦　JAVASCRIPT　✦　BUILDING BOTS THAT FEEL ALIVE</text>
+  <path d="M0 318H1200" stroke="#E879F9" stroke-opacity=".35"/><text x="600" y="378" text-anchor="middle" fill="#EAEAEA" font-family="Arial, sans-serif" font-size="15" letter-spacing="6">BUILDING QUIETLY. SHIPPING LOUDLY.<tspan fill="#FF2FBE"> ▌</tspan></text>
+  <path d="M0 394H1200M0 401H1200M0 408H1200" stroke="#E879F9" stroke-opacity=".12"/><g fill="#FF2FBE"><path d="m599 400 8 8-8 8-8-8z"/><path d="m570 405 4 4-4 4-4-4z"/><path d="m630 405 4 4-4 4-4-4z"/></g>
+</svg>
